@@ -1,6 +1,6 @@
 # 2018
 
-*  [ ] Mapping Akai MIDIMix for TouchViz
+*  [x] Mapping Akai MIDIMix for TouchViz
 *  [ ] Mapping Akai MIDIMix for PreenFM2
 *  [ ] Mapping Akai MIDIMix for Mutable Instruments Shruthi
 *  [ ] Mapping Akai MIDIMix for Nord Drum 2
