@@ -1,4 +1,4 @@
-# [2018 wiki](wiki)
+# [2018 wiki](/maciejjankowski/2018/wiki)
 
 *  [x] Mapping Akai MIDIMix for TouchViz
 *  [ ] Midi RTP, PC or RaspberryPi -> iPad
