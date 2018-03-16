@@ -8,3 +8,4 @@
 *  [ ] Node.JS MIDI Re-Mapper for Akai MIDIMix and TouchViz
 *  [ ] https://magenta.tensorflow.org/nsynth
 *  [ ] https://composerprogrammer.com/teaching/supercollider/sctutorial/11.1%20Physical%20Modelling.html
+*  [ ] https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3
