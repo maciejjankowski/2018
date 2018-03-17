@@ -6,4 +6,6 @@
 *  [ ] Mapping Akai MIDIMix for Mutable Instruments Shruthi [midi spec](https://docs.google.com/spreadsheets/d/1ODhAG-vmyhbaof4ghdrQ5pWPphHMHdzLTH_vHP1lJMw/pub?output=html#)
 *  [ ] Mapping Akai MIDIMix for Nord Drum 2
 *  [ ] Node.JS MIDI Re-Mapper for Akai MIDIMix and TouchViz
-*  [ ] Video
+*  [ ] https://magenta.tensorflow.org/nsynth
+*  [ ] https://composerprogrammer.com/teaching/supercollider/sctutorial/11.1%20Physical%20Modelling.html
+*  [ ] https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3
