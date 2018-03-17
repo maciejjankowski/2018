@@ -6,3 +6,4 @@
 *  [ ] Mapping Akai MIDIMix for Mutable Instruments Shruthi [midi spec](https://docs.google.com/spreadsheets/d/1ODhAG-vmyhbaof4ghdrQ5pWPphHMHdzLTH_vHP1lJMw/pub?output=html#)
 *  [ ] Mapping Akai MIDIMix for Nord Drum 2
 *  [ ] Node.JS MIDI Re-Mapper for Akai MIDIMix and TouchViz
+*  [ ] Video
