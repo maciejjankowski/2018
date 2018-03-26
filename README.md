@@ -9,3 +9,5 @@
 *  [ ] https://magenta.tensorflow.org/nsynth
 *  [ ] https://composerprogrammer.com/teaching/supercollider/sctutorial/11.1%20Physical%20Modelling.html
 *  [ ] https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3
+* [ ] https://blog.ycombinator.com/one-order-of-operations-for-starting-a-startup/
+* [ ] https://blog.twitter.com/engineering/en_us/topics/insights/2017/Our-Discovery-of-Cramming.html
