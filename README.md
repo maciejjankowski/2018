@@ -6,3 +6,4 @@
 * [tmux](https://www.google.pl/search?q=install+tmux) - have more terminal winows inside your terminal, terminalception, super useful
 
 # [2018 wiki](https://github.com/maciejjankowski/2018/wiki)
+# [2019 wiki](https://github.com/maciejjankowski/2019/wiki)
